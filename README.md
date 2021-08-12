@@ -1,2 +1,2 @@
-# Attribution
-This repo is created for a test
+# Our demo
+This repo is created for a the live demo for our VCS datagrip session
